@@ -6,6 +6,10 @@
 - Next.js
 - Markdown
 
+#### Libraries
+- marked
+- gray-matter
+
 ---
 ### Features
 - Darkmode
